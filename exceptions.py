@@ -1,0 +1,2 @@
+class MoodleFunctionException(Exception):
+    pass
