@@ -1,45 +1,7 @@
 #!venv/bin/python
 
-import argparse
-import traceback
-from commands import get_moodle_users_activity
-from services import InputInterface, OutputInterface
-import sys
-
-parser = argparse.ArgumentParser()
-
-parser.add_argument('command', nargs='?',
-                    help='The command you want to run')
-
-parser.add_argument('--upload-drive', action='store_true',
-                    help='Whether the outfile should be sent to google drive')
-
-args = parser.parse_args()
-
-output = OutputInterface()
-
-commands_mappers = {
-    'moodle:getusersactivity': {
-        'command': get_moodle_users_activity,
-        'description': 'Fetch users activity from moodle api'
-    }
-}
+from src.entry_point import entry_point
 
 
-if args.command == None:
-    output.message('Available commands:\n')
-    for k in commands_mappers.keys():
-        output.message(f"{k} \t {commands_mappers[k]['description']}")
-    sys.exit(0)
-
-if args.command not in commands_mappers:
-    output.error(f'Command {args.command} not found')
-    sys.exit(1)
-
-try:
-    command = commands_mappers[args.command]['command']
-    command(InputInterface(vars(args)), output)
-    sys.exit(0)
-except Exception as e:
-    traceback.print_exc()
-    sys.exit(1)
+if __name__ == '__main__':
+    entry_point()

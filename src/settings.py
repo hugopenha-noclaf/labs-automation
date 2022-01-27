@@ -1,4 +1,8 @@
+from pathlib import Path
+
 MOODLE_TOKEN = '0d76bd8e6e6c74abcc386353bb69d5f3'
+
+output_path = Path(__file__).resolve().parent / 'outputs'
 
 moodle = {
     'token': '0d76bd8e6e6c74abcc386353bb69d5f3'
