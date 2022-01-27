@@ -1,7 +1,7 @@
 from typing import Dict, List, Optional
 from src.commands.base import BaseCommand
 from src.services.moodle import MoodleFunctionException, call_moodle_function, get_course_contents, get_users_enrolled_in_course
-from src.utils import save_csv_file, timestamp_to_datetime
+from src.utils import save_csv_file, timestamp_to_datetime, upload_file_to_googledrive_labs_folder
 from src.settings import output_path
 
 
@@ -58,6 +58,10 @@ class GetUserCourseActivities(BaseCommand):
             save_csv_file(file_path=output_file, rows=rows, mode='a')
 
             self.output.message('====')
+
+        if self.input.arguments['upload_drive']:
+            self.output.message('Uploading file to google drive...')
+            upload_file_to_googledrive_labs_folder(output_file)
 
         self.output.message('Well done!')
 

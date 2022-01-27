@@ -1,7 +1,7 @@
 from operator import mod
 from src.services.moodle import MoodleFunctionException, get_course_contents, get_courses
 from src.commands.base import BaseCommand
-from src.utils import remove_html_tags, save_csv_file
+from src.utils import remove_html_tags, save_csv_file, upload_file_to_googledrive_labs_folder
 from src.settings import output_path
 
 
@@ -31,7 +31,14 @@ class GetCoursesWithModules(BaseCommand):
                 ]
                 rows.append(row)
 
+        self.output.message('Saving output file...')
         save_csv_file(file_path=output_file, rows=rows, mode='a')
+
+        if self.input.arguments['upload_drive']:
+            self.output.message('Uploading file to google drive...')
+            upload_file_to_googledrive_labs_folder(output_file)
+
+        self.output.message('Well done!')
 
     def get_courses(self):
         try:

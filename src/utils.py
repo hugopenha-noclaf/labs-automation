@@ -1,7 +1,11 @@
 import csv
+from pathlib import Path
 import re
 from datetime import datetime
 from typing import List, Optional, Union
+
+from src.services.google_drive.google_drive import send_file_to_googledrive
+from src.settings import google_drive
 
 
 def save_csv_file(file_path: str, rows: Optional[List] = None, header: Optional[List] = None, mode: str = 'w') -> None:
@@ -34,3 +38,14 @@ def timestamp_to_datetime(timestamp: str) -> Union[int, datetime]:
 def remove_html_tags(html_string: str):
     pattern = re.compile('<.*?>')
     return re.sub(pattern, '', html_string)
+
+
+def upload_file_to_googledrive_labs_folder(output_file: Path):
+    """
+        Upload the output file into folder 'LabsStats'
+        :param output_file: The output file to upload
+    """
+    google_drive_file_name = '{0}_{1}'.format(
+        datetime.now().strftime('%Y%m%d'), output_file.name)
+    send_file_to_googledrive(
+        output_file, google_drive_file_name, google_drive['folder_output'])
