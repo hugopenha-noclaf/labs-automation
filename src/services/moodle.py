@@ -39,5 +39,9 @@ def get_courses():
     return call_moodle_function('core_course_get_courses')
 
 
+def get_course_activity_status(user_id, course_id):
+    return call_moodle_function('core_completion_get_activities_completion_status', params={'userid': user_id, 'courseid': course_id})
+
+
 class MoodleFunctionException(Exception):
     pass

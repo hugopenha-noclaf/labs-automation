@@ -1,0 +1,1401 @@
+Id usuário,Nome usuário,Nome Seção,Id módulo,Nome módulo,Módulo é requisito para conclusão,Concluiu o módulo,Concluiu o curso
+3,Felipe Furtado,General,1,Anúncios,Não,Não,Não
+3,Felipe Furtado,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+3,Felipe Furtado,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+3,Felipe Furtado,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+3,Felipe Furtado,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+3,Felipe Furtado,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+3,Felipe Furtado,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+4,Georg Buske,General,1,Anúncios,Não,Não,Não
+4,Georg Buske,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+4,Georg Buske,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+4,Georg Buske,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+4,Georg Buske,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+4,Georg Buske,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+4,Georg Buske,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+4,Georg Buske,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+4,Georg Buske,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+4,Georg Buske,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+4,Georg Buske,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+4,Georg Buske,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+4,Georg Buske,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+4,Georg Buske,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+4,Georg Buske,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+4,Georg Buske,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+4,Georg Buske,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+4,Georg Buske,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+4,Georg Buske,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,General,1,Anúncios,Não,Não,Não
+8,Matheus Fernandes Vieira Peixoto,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Sim,Não
+8,Matheus Fernandes Vieira Peixoto,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+8,Matheus Fernandes Vieira Peixoto,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,General,1,Anúncios,Não,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+10,Eduardo Jeronymo Goulart Raffi,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,General,1,Anúncios,Não,Não,Não
+11,Alan Gabriel Gomes Garcia,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+11,Alan Gabriel Gomes Garcia,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+13,Rodrigo Bins Gomes,General,1,Anúncios,Não,Não,Não
+13,Rodrigo Bins Gomes,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+13,Rodrigo Bins Gomes,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+13,Rodrigo Bins Gomes,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+16,Wallyson Rodrigues,General,1,Anúncios,Não,Não,Não
+16,Wallyson Rodrigues,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+16,Wallyson Rodrigues,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+16,Wallyson Rodrigues,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+16,Wallyson Rodrigues,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+16,Wallyson Rodrigues,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+17,Giorgio  Tamanini,General,1,Anúncios,Não,Não,Não
+17,Giorgio  Tamanini,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+17,Giorgio  Tamanini,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+17,Giorgio  Tamanini,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+17,Giorgio  Tamanini,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+17,Giorgio  Tamanini,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,General,1,Anúncios,Não,Não,Não
+18,Lucas Lima Lopes  de Oliveira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,20,Comparando períodos,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,15,Utilizando filtros,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,14,Eventos agrupadores,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Sim,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+18,Lucas Lima Lopes  de Oliveira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+20,Luana Lacerda de Oliveira,General,1,Anúncios,Não,Não,Não
+20,Luana Lacerda de Oliveira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+20,Luana Lacerda de Oliveira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+27,Renato Ferreira Saraiva,General,1,Anúncios,Não,Não,Não
+27,Renato Ferreira Saraiva,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+27,Renato Ferreira Saraiva,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+27,Renato Ferreira Saraiva,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,General,1,Anúncios,Não,Não,Não
+29,Marcio  Fernandes de Godoy,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,20,Comparando períodos,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,15,Utilizando filtros,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,14,Eventos agrupadores,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Sim,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+29,Marcio  Fernandes de Godoy,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+33,Rafaela Santos Portela,General,1,Anúncios,Não,Não,Não
+33,Rafaela Santos Portela,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+33,Rafaela Santos Portela,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+33,Rafaela Santos Portela,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+33,Rafaela Santos Portela,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+33,Rafaela Santos Portela,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+34,Yuri Mochizuki,General,1,Anúncios,Não,Não,Não
+34,Yuri Mochizuki,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+34,Yuri Mochizuki,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+34,Yuri Mochizuki,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+34,Yuri Mochizuki,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+34,Yuri Mochizuki,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,General,1,Anúncios,Não,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+37,Marcos Vinícius  Araujo Coutinho,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,General,1,Anúncios,Não,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+38,Bhyanca Miranda Lelé Bezerra,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+39,André Luis da Silva,General,1,Anúncios,Não,Não,Não
+39,André Luis da Silva,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+39,André Luis da Silva,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+39,André Luis da Silva,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+39,André Luis da Silva,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,General,1,Anúncios,Não,Não,Não
+40,Viviane  Bevervanço de Carvalho,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+40,Viviane  Bevervanço de Carvalho,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+45,Filipe Amaral da Costa,General,1,Anúncios,Não,Não,Não
+45,Filipe Amaral da Costa,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+45,Filipe Amaral da Costa,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+45,Filipe Amaral da Costa,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+45,Filipe Amaral da Costa,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,General,1,Anúncios,Não,Não,Não
+46,João Guilherme  Gilson de Almeida,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+46,João Guilherme  Gilson de Almeida,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+52,Marcos  Roberto Lopes,General,1,Anúncios,Não,Não,Não
+52,Marcos  Roberto Lopes,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+52,Marcos  Roberto Lopes,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+52,Marcos  Roberto Lopes,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+53,Renan  Bogio Amaro,General,1,Anúncios,Não,Não,Não
+53,Renan  Bogio Amaro,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+53,Renan  Bogio Amaro,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+53,Renan  Bogio Amaro,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+53,Renan  Bogio Amaro,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,General,1,Anúncios,Não,Não,Não
+57,Luiz Fernando  Moreira Bernardino,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+57,Luiz Fernando  Moreira Bernardino,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,General,1,Anúncios,Não,Não,Não
+58,Fabiane  Solarewicz de Lima,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+58,Fabiane  Solarewicz de Lima,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+60,Pedro Sampaio,General,1,Anúncios,Não,Não,Não
+60,Pedro Sampaio,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+60,Pedro Sampaio,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+60,Pedro Sampaio,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+60,Pedro Sampaio,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+61,Mark  Anthony,General,1,Anúncios,Não,Não,Não
+61,Mark  Anthony,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+61,Mark  Anthony,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+61,Mark  Anthony,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+61,Mark  Anthony,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+63,Felipe  Pereira de Pinho,General,1,Anúncios,Não,Não,Não
+63,Felipe  Pereira de Pinho,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+63,Felipe  Pereira de Pinho,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+64,Guilherme Sanches Pereira,General,1,Anúncios,Não,Não,Não
+64,Guilherme Sanches Pereira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+64,Guilherme Sanches Pereira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+64,Guilherme Sanches Pereira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+65,Thiago  Wakabayashi,General,1,Anúncios,Não,Não,Não
+65,Thiago  Wakabayashi,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+65,Thiago  Wakabayashi,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+65,Thiago  Wakabayashi,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+65,Thiago  Wakabayashi,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+65,Thiago  Wakabayashi,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+67,Marcelo d'Almeida,General,1,Anúncios,Não,Não,Não
+67,Marcelo d'Almeida,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+67,Marcelo d'Almeida,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,20,Comparando períodos,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,15,Utilizando filtros,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,14,Eventos agrupadores,Sim,Sim,Não
+67,Marcelo d'Almeida,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Sim,Não
+67,Marcelo d'Almeida,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+67,Marcelo d'Almeida,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+68,Gabriel Antonio  da Silva,General,1,Anúncios,Não,Não,Não
+68,Gabriel Antonio  da Silva,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+68,Gabriel Antonio  da Silva,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,General,1,Anúncios,Não,Não,Não
+69,Alex  Cavalcante de Oliveira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+69,Alex  Cavalcante de Oliveira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,General,1,Anúncios,Não,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+70,Victor Renan  Travassos Sarinho Ferreira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+71,Gisele Rocha Martins,General,1,Anúncios,Não,Não,Não
+71,Gisele Rocha Martins,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+71,Gisele Rocha Martins,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+71,Gisele Rocha Martins,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+71,Gisele Rocha Martins,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+73,Lucas Martins Thimoteo,General,1,Anúncios,Não,Não,Não
+73,Lucas Martins Thimoteo,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+73,Lucas Martins Thimoteo,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,20,Comparando períodos,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,15,Utilizando filtros,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,14,Eventos agrupadores,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Sim,Não
+73,Lucas Martins Thimoteo,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+73,Lucas Martins Thimoteo,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+74,Álvaro Torres,General,1,Anúncios,Não,Não,Não
+74,Álvaro Torres,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+74,Álvaro Torres,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,20,Comparando períodos,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,15,Utilizando filtros,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,14,Eventos agrupadores,Sim,Sim,Não
+74,Álvaro Torres,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Sim,Não
+74,Álvaro Torres,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+74,Álvaro Torres,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+76,Augusto César  Mau Vieira,General,1,Anúncios,Não,Não,Não
+76,Augusto César  Mau Vieira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+76,Augusto César  Mau Vieira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+76,Augusto César  Mau Vieira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+77,Lidiane Gusman de Menezes,General,1,Anúncios,Não,Não,Não
+77,Lidiane Gusman de Menezes,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+77,Lidiane Gusman de Menezes,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+79,Amanda Schulz,General,1,Anúncios,Não,Não,Não
+79,Amanda Schulz,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+79,Amanda Schulz,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+79,Amanda Schulz,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+79,Amanda Schulz,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+79,Amanda Schulz,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+81,Tiago Rodrigues,General,1,Anúncios,Não,Não,Não
+81,Tiago Rodrigues,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+81,Tiago Rodrigues,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+81,Tiago Rodrigues,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+81,Tiago Rodrigues,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,General,1,Anúncios,Não,Não,Não
+82,Paula Andrea  Alves Ferreira,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+82,Paula Andrea  Alves Ferreira,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+86,Lucas Ferreira Santos,General,1,Anúncios,Não,Não,Não
+86,Lucas Ferreira Santos,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+86,Lucas Ferreira Santos,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+86,Lucas Ferreira Santos,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+86,Lucas Ferreira Santos,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+87,Lucas  David Andrade,General,1,Anúncios,Não,Não,Não
+87,Lucas  David Andrade,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+87,Lucas  David Andrade,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+87,Lucas  David Andrade,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+87,Lucas  David Andrade,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+87,Lucas  David Andrade,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+88,Nathalia Braga,General,1,Anúncios,Não,Não,Não
+88,Nathalia Braga,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+88,Nathalia Braga,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+88,Nathalia Braga,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+88,Nathalia Braga,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+89,Rafaela Moos,General,1,Anúncios,Não,Não,Não
+89,Rafaela Moos,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+89,Rafaela Moos,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+89,Rafaela Moos,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+89,Rafaela Moos,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+90,César Alejandro Parra Vargas,General,1,Anúncios,Não,Não,Não
+90,César Alejandro Parra Vargas,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+90,César Alejandro Parra Vargas,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+90,César Alejandro Parra Vargas,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+91,Bruno Morise Silva,General,1,Anúncios,Não,Não,Não
+91,Bruno Morise Silva,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+91,Bruno Morise Silva,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+91,Bruno Morise Silva,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+91,Bruno Morise Silva,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+103,Frederico Anderson de Haro,General,1,Anúncios,Não,Não,Não
+103,Frederico Anderson de Haro,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+103,Frederico Anderson de Haro,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+103,Frederico Anderson de Haro,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+103,Frederico Anderson de Haro,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+103,Frederico Anderson de Haro,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+104,Bernard  Audemard,General,1,Anúncios,Não,Não,Não
+104,Bernard  Audemard,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+104,Bernard  Audemard,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+104,Bernard  Audemard,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+104,Bernard  Audemard,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,General,1,Anúncios,Não,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+108,Jeane Schmitt Dorneles dos Santos,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+109,Ingredi  Lima da Silva,General,1,Anúncios,Não,Não,Não
+109,Ingredi  Lima da Silva,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+109,Ingredi  Lima da Silva,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+109,Ingredi  Lima da Silva,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+111,Rafaela Passos Linton,General,1,Anúncios,Não,Não,Não
+111,Rafaela Passos Linton,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+111,Rafaela Passos Linton,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+111,Rafaela Passos Linton,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+111,Rafaela Passos Linton,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+114,Dayani Barros Mariano,General,1,Anúncios,Não,Não,Não
+114,Dayani Barros Mariano,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+114,Dayani Barros Mariano,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+114,Dayani Barros Mariano,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+114,Dayani Barros Mariano,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+118,Fernando Muniz,General,1,Anúncios,Não,Não,Não
+118,Fernando Muniz,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+118,Fernando Muniz,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+118,Fernando Muniz,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+118,Fernando Muniz,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+136,Philipe Luna Soares,General,1,Anúncios,Não,Não,Não
+136,Philipe Luna Soares,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+136,Philipe Luna Soares,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+136,Philipe Luna Soares,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+136,Philipe Luna Soares,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não
+138,Usuário Teste,General,1,Anúncios,Não,Não,Não
+138,Usuário Teste,General,44,Esclarecimentos de dúvidas,Não,Não,Não
+138,Usuário Teste,Fundamentos do Mixpanel,4,O que é o Mixpanel?,Sim,Sim,Não
+138,Usuário Teste,Fundamentos do Mixpanel,5,O que NÃO é o Mixpanel?,Sim,Sim,Não
+138,Usuário Teste,Fundamentos do Mixpanel,6,Conceito: Dashboards,Sim,Sim,Não
+138,Usuário Teste,Fundamentos do Mixpanel,9,"Salvamento, exportação e adição de relatórios a dashboards",Sim,Sim,Não
+138,Usuário Teste,Fundamentos do Mixpanel,10,Compartilhamento de dashboards,Sim,Sim,Não
+138,Usuário Teste,Fundamentos do Mixpanel,11,Dicas e boas práticas,Sim,Não,Não
+138,Usuário Teste,Fundamentos do Mixpanel,55,Fundamentos de Mixpanel - Avaliação do módulo,Sim,Sim,Não
+138,Usuário Teste,Análises e Insights,23,Conhecendo o modelo Insights Report,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,22,Escolhendo eventos e tipos de gráficos,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,21,"Contabilizando totais, únicos e agregações",Sim,Não,Não
+138,Usuário Teste,Análises e Insights,20,Comparando períodos,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,17,Breakdown e limitação de linhas no resultado,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,15,Utilizando filtros,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,14,Eventos agrupadores,Sim,Não,Não
+138,Usuário Teste,Análises e Insights,56,Análises e Insights - Avaliação do módulo,Sim,Não,Não
+138,Usuário Teste,Análise de funil,45,O que é e o que NÃO é um funil,Sim,Não,Não
+138,Usuário Teste,Análise de funil,46,Breakdown em um funil,Sim,Não,Não
+138,Usuário Teste,Análise de funil,47,O que é a tabela abaixo dos gráficos,Sim,Não,Não
+138,Usuário Teste,Análise de funil,49,Decompondo e analisando um funil de entregas,Sim,Não,Não
+138,Usuário Teste,Análise de funil,48,Analisando tendências em um funil,Sim,Não,Não
+138,Usuário Teste,Análise de funil,50,Explicando o time to convert,Sim,Não,Não
+138,Usuário Teste,Análise de funil,51,Interpretando funis usando breakdown,Sim,Não,Não
+138,Usuário Teste,Análise de funil,52,Interpretando funis usando filtros,Sim,Não,Não

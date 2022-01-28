@@ -1,3 +1,4 @@
+from src.commands.moodle.get_users_completion_course import GetUsersCompletionCourse
 from src.commands.input_output import InputInterface, OutputInterface
 from src.commands.moodle.get_courses_with_modules import GetCoursesWithModules
 from src.commands.moodle.get_user_course_activities import GetUserCourseActivities
@@ -7,7 +8,8 @@ from src.commands.moodle.get_users_activity import GetUsersActivity
 handlers = {
     'moodle:users_getactivity': GetUsersActivity,
     'moodle:users_getcourseactivities': GetUserCourseActivities,
-    'moodle:courses_getall': GetCoursesWithModules
+    'moodle:courses_getall': GetCoursesWithModules,
+    'moodle:course_completion_status': GetUsersCompletionCourse
 }
 
 
