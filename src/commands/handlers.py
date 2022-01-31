@@ -4,7 +4,7 @@ from src.commands.moodle.get_courses_with_modules import GetCoursesWithModules
 from src.commands.moodle.get_user_course_activities import GetUserCourseActivities
 from src.commands.moodle.get_users_activity import GetUsersActivity
 
-
+# List of available commands for the cli.
 handlers = {
     'moodle:users_getactivity': GetUsersActivity,
     'moodle:users_getcourseactivities': GetUserCourseActivities,
@@ -14,6 +14,9 @@ handlers = {
 
 
 def handler_command(command_name: str, input_interface: InputInterface, output_interface: OutputInterface):
+    """
+        Given the command name, try to execute it.
+    """
     if command_name not in handlers:
         if command_name != None:
             output_interface.message(f'Command [{command_name}] not found!!\n')

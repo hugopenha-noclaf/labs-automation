@@ -5,13 +5,14 @@ from pydrive2.drive import GoogleDrive
 from src.settings import output_path
 from pathlib import Path
 
-
+# Meta file is used to save google drive file id for an output file.
+# It's used to replace files instead of creating new one for the same file name.
 metadata_file = output_path/'googledrive_files_metadata.json'
 
 
 def get_googledrive_file_id(filename: str) -> Optional[str]:
     """
-        Get the google file id matchind the filename
+        Get the google file id matching the filename.
     """
     with open(metadata_file, 'r') as f:
         data = json.loads(f.read())

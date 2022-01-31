@@ -8,6 +8,11 @@ class GetUsersCompletionCourse(BaseCommand):
     description = 'Get the completions status of all users in a course.'
 
     def execute(self):
+        """
+            This command get the status of completions of all users for a course.
+            It build a report with the completion status for all modules of the course
+            and the course completion status (if the user has completed 100% the course).
+        """
         if not self.input.arguments['course']:
             raise Exception('The course must be informed.')
 
@@ -19,7 +24,8 @@ class GetUsersCompletionCourse(BaseCommand):
 
         self.output.message('Fecthing modules...')
         modules = self.get_course_modules()
-        # módulos que são requisitos para completar o curso
+
+        # Modules that are requirements to the course completion.
         modules_completion_requirement = [m['module_id']
                                           for m in modules if m['has_completion']]
         modules_completion_requirement.sort()
@@ -34,11 +40,13 @@ class GetUsersCompletionCourse(BaseCommand):
             self.output.message('Fetching activities')
             activities = self.get_user_course_activities(u['id'])
 
-            # módulos concluídos
+            # Modules that were completed.
             modules_completed = [a['module_id']
                                  for a in activities if a['has_completed']]
             modules_completed.sort()
 
+            # Check if the user completed 100% of course.
+            # The logic is if the user completed all modules that are a requirement to the course.
             has_course_completed = 'Sim' if modules_completed == modules_completion_requirement else 'Não'
 
             for m in modules:
@@ -58,6 +66,9 @@ class GetUsersCompletionCourse(BaseCommand):
         self.output.message('Well done!')
 
     def get_course_modules(self):
+        """
+            Get the modules of a the course.
+        """
         try:
             course_contents = get_course_contents(self.course_id)
             data = []
@@ -67,6 +78,7 @@ class GetUsersCompletionCourse(BaseCommand):
                         'section_name': c['name'],
                         'module_name': m['name'],
                         'module_id': m['id'],
+                        # Indicate wether this module is a requirement for the course complestion.
                         'has_completion': 'completiondata' in m
                     })
 
@@ -76,6 +88,9 @@ class GetUsersCompletionCourse(BaseCommand):
             return None
 
     def get_user_course_activities(self, user_id):
+        """
+            Get the user activity status for the course.
+        """
         try:
             activities = get_course_activity_status(
                 user_id, self.course_id)

@@ -8,6 +8,9 @@ class GetCoursesWithModules(BaseCommand):
     description = 'Get the list of courses with their modules.'
 
     def execute(self):
+        """
+            This command fetches all courses and with their modules.
+        """
         output_file = output_path/'moodle_courses_with_modules.csv'
 
         header = ['Id curso', 'Nome curso',
@@ -40,6 +43,9 @@ class GetCoursesWithModules(BaseCommand):
         self.output.message('Well done!')
 
     def get_courses(self):
+        """
+            Fetch the courses.
+        """
         try:
             courses = get_courses()
             data = []
@@ -58,6 +64,9 @@ class GetCoursesWithModules(BaseCommand):
             return []
 
     def get_course_modules(self, course_id):
+        """
+            Fetch the course modules.
+        """
         try:
             sections = get_course_contents(course_id)
             data = []

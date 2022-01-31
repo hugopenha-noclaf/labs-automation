@@ -12,6 +12,10 @@ class GetUsersActivity(BaseCommand):
     description = 'Get users access activity.'
 
     def execute(self):
+        """
+            This command fetch the access activity of all users.
+        """
+
         output_file = output_path/'moodle_users_activity.csv'
 
         self.output.message('Fetching users...')
@@ -29,6 +33,9 @@ class GetUsersActivity(BaseCommand):
         self.output.message('Well done!')
 
     def get_users(self):
+        """
+            Fetch users.
+        """
         try:
             return call_moodle_function(
                 'core_enrol_get_enrolled_users', {'courseid': 1})
@@ -37,6 +44,9 @@ class GetUsersActivity(BaseCommand):
             return []
 
     def save_users(self, users: List, file_path: Path):
+        """
+            Save users into output file.
+        """
         rows = []
         for row in users:
             last_access = timestamp_to_datetime(row['lastaccess'])

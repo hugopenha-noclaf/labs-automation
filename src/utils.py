@@ -13,7 +13,7 @@ def save_csv_file(file_path: str, rows: Optional[List] = None, header: Optional[
         Save the content in the list 'rows' into a csv file.
         If the mode param is igual to 'a', then the content will be appended in the end of file.
         :param file_path: The path of the file.
-        :param rows: The content of the file
+        :param rows: The content of the file.
         :param header: The header of the file (If informed).
         :param mode: The mode of write. 'w' for creation, 'a' for append the content.
     """
@@ -36,14 +36,17 @@ def timestamp_to_datetime(timestamp: str) -> Union[int, datetime]:
 
 
 def remove_html_tags(html_string: str):
+    """
+        Remove html tags from string.
+    """
     pattern = re.compile('<.*?>')
     return re.sub(pattern, '', html_string)
 
 
 def upload_file_to_googledrive_labs_folder(output_file: Path):
     """
-        Upload the output file into folder 'LabsStats'
-        :param output_file: The output file to upload
+        Upload the output file into folder 'LabsStats'.
+        :param output_file: The output file to upload.
     """
     google_drive_file_name = '{0}_{1}'.format(
         datetime.now().strftime('%Y%m%d'), output_file.name)

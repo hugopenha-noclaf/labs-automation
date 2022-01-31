@@ -1,6 +1,6 @@
 from typing import Dict, List, Optional
 from src.commands.base import BaseCommand
-from src.services.moodle import MoodleFunctionException, call_moodle_function, get_course_contents, get_users_enrolled_in_course
+from src.services.moodle import MoodleFunctionException, call_moodle_function, get_course_activity_status, get_course_contents, get_users_enrolled_in_course
 from src.utils import save_csv_file, timestamp_to_datetime, upload_file_to_googledrive_labs_folder
 from src.settings import output_path
 
@@ -9,9 +9,12 @@ class GetUserCourseActivities(BaseCommand):
     description = 'Get course activities with grades.'
 
     def execute(self) -> None:
+        """
+            This command fetch all activities for all users from a specific course.
+            It fetches too the grades.
+        """
         output_file = output_path/'moodle_user_grades.csv'
 
-        # self.user_id = self.input.arguments['user']
         self.course_id = self.input.arguments['course']
 
         if not self.course_id:
@@ -66,10 +69,11 @@ class GetUserCourseActivities(BaseCommand):
         self.output.message('Well done!')
 
     def get_user_completion_course_status(self, user_id) -> Optional[List[Dict]]:
-        params = {'userid': user_id, 'courseid': self.course_id}
+        """
+            Fetch the user completion status for a course.
+        """
         try:
-            response = call_moodle_function(
-                'core_completion_get_activities_completion_status', params)
+            response = get_course_activity_status(user_id, self.course_id)
 
             status_description = {
                 0: 'Incompleto',
@@ -99,6 +103,9 @@ class GetUserCourseActivities(BaseCommand):
             return []
 
     def get_user_course_grades(self, user_id) -> Optional[List[Dict]]:
+        """
+            Get all grades od user from a course.
+        """
         params = {'userid': user_id, 'courseid': self.course_id}
         try:
             response = call_moodle_function(
@@ -120,6 +127,9 @@ class GetUserCourseActivities(BaseCommand):
             return []
 
     def get_course_modules(self):
+        """
+            Get all modules for the course.
+        """
         try:
             result = get_course_contents(self.course_id)
             tiles = [{'tile_id': tile['id'], 'tile_name': tile['name'],
@@ -135,6 +145,10 @@ class GetUserCourseActivities(BaseCommand):
             return None
 
     def join_course_activities_statuses_with_grades(self, statuses, grades):
+        """
+            For all activity status, try to find the grande. 
+            If the grade for a module is found, then save the grades info into status line.
+        """
         for s in statuses:
             for g in grades:
                 if s['module_id'] == g['module_id']:
@@ -142,8 +156,11 @@ class GetUserCourseActivities(BaseCommand):
         return statuses
 
     def get_users(self):
+        """
+            Get the users enrolled to the course.
+        """
         try:
-            users = get_users_enrolled_in_course(1)
+            users = get_users_enrolled_in_course(self.course_id)
             data = []
             for u in users:
                 data.append({
