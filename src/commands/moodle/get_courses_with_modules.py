@@ -1,4 +1,3 @@
-from operator import mod
 from src.services.moodle import MoodleFunctionException, get_course_contents, get_courses
 from src.commands.base import BaseCommand
 from src.utils import remove_html_tags, save_csv_file, upload_file_to_googledrive_labs_folder
